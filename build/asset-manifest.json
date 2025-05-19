@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e34c93db.css",
+    "main.js": "/static/js/main.ec6760fd.js",
+    "static/media/courseImage.png": "/static/media/courseImage.d73b3550f44cf8af5c2a.png",
+    "static/media/learnophi-large.png": "/static/media/learnophi-large.1ff4dba64aa2ce3bc62f.png",
+    "static/media/ilogo.png": "/static/media/ilogo.5835cb7c81c0160b2115.png",
+    "static/media/dlogo.png": "/static/media/dlogo.03d31783e75d29b1ed0d.png",
+    "static/media/conlogo.png": "/static/media/conlogo.3d12f3c300896b8af9e7.png",
+    "static/media/clogo.png": "/static/media/clogo.5c309a9ba92b28d6237c.png",
+    "index.html": "/index.html",
+    "main.e34c93db.css.map": "/static/css/main.e34c93db.css.map",
+    "main.ec6760fd.js.map": "/static/js/main.ec6760fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e34c93db.css",
+    "static/js/main.ec6760fd.js"
+  ]
+}
