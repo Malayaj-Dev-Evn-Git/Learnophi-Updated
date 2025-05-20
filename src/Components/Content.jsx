@@ -75,16 +75,16 @@ const Content = () => {
           <div className="flex flex-wrap justify-center items-center mt-8 text-gray-500 sm:justify-between">
             {/* Repeat or map logo SVGs here as needed */}
             <a href="https://techmahindra.com" className="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
-              <img src={ Clogo } width="90px"></img>
+              <img src={ Clogo } width="90px" alt="company4"></img>
             </a>
             <a href="https://infosys.com" className="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
-            <img src={ Ilogo } width="90px"></img>
+            <img src={ Ilogo } width="90px" alt="company4"></img>
             </a>
             <a href="https://datamatics.com" className="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
-            <img src={ Dlogo } width="90px"></img>
+            <img src={ Dlogo } width="90px" alt="company4"></img>
             </a>
             <a href="https://concentrix.com" className="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
-            <img src={ Conlogo } width="90px"></img>
+            <img src={ Conlogo } width="90px" alt="company4"></img>
             </a>
           </div>
         </div>
