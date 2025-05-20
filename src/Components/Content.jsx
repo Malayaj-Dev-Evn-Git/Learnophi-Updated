@@ -399,7 +399,7 @@ const Content = () => {
         <img
           className="w-full hidden dark:block"
           src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/cta/cta-dashboard-mockup.svg"
-          alt="dashboard image"
+          alt="dashboard"
         />
         <div className="mt-4 md:mt-0">
         <h2 className="text-base text-indigo-600 font-semibold tracking-wide uppercase">
