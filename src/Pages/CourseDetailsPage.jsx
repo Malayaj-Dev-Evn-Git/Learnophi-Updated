@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { ChevronDown, ChevronRight, Lock } from "lucide-react";
 import courseImage from "../Assets/image/courseImage.png";
+import Teacher from "../Assets/teacher.jpg";
 
 const tabs = ["Overview", "Curriculum", "Instructor"];
 
@@ -221,7 +222,7 @@ const CourseDetailsPage = () => {
               <div className="bg-white p-6 rounded-xl shadow-md mt-6">
                 <div className="flex flex-col md:flex-row items-center gap-6">
                   <img
-                    src="/your-image-path.jpg" // Replace with the actual image path
+                    src={Teacher} // Replace with the actual image path
                     alt="Daniel Smith"
                     className="w-48 h-48 object-cover rounded-lg"
                   />
