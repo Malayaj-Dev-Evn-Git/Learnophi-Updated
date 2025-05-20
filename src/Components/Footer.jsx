@@ -6,7 +6,7 @@ const Footer = () => {
     <footer>
   <div className="mx-auto max-w-5xl px-4 py-16 sm:px-6 lg:px-8">
     <div className="flex justify-center text-teal-600">
-    <img src={logo} alt="Logo" className="h-12 drop-shadow-md"></img>
+    <img src={logo} alt="Logo" target="https://learnophi.com" className="h-12 drop-shadow-md"></img>
     </div>
 
     <p className="mx-auto mt-6 max-w-md text-center leading-relaxed text-gray-500">
@@ -17,20 +17,21 @@ const Footer = () => {
       <li>
         <a className="text-gray-700 transition hover:text-gray-700/75" href="/course-details"> About </a>
       </li>
-
-      <li>
-        <a className="text-gray-700 transition hover:text-gray-700/75" href="/course-details"> Services </a>
-      </li>
-
       <li>
         <a className="text-gray-700 transition hover:text-gray-700/75" href="/course-details"> Courses </a>
       </li>
 
       <li>
-        <a className="text-gray-700 transition hover:text-gray-700/75" href="/course-details"> Terms & Conditions </a>
+        <a className="text-gray-700 transition hover:text-gray-700/75" href="/terms"> Terms & Conditions </a>
       </li>
       <li>
-        <a className="text-gray-700 transition hover:text-gray-700/75" href="/course-details"> Privacy Policy </a>
+        <a className="text-gray-700 transition hover:text-gray-700/75" href="/privacy-policy"> Privacy Policy </a>
+      </li>
+      <li>
+        <a className="text-gray-700 transition hover:text-gray-700/75" href="/refund-policy"> Refund Policy </a>
+      </li>
+      <li>
+        <a className="text-gray-700 transition hover:text-gray-700/75" href="/disclaimer"> Disclaimer </a>
       </li>
     </ul>
 
@@ -123,7 +124,7 @@ const Footer = () => {
         </a>
       </li>
     </ul> */}
-    <span class="text-lg text-gray-500 text-center block">©<a href="https://learnophi.com/">Learnophi</a> 2025, All rights reserved.</span>
+    <span class="text-lg text-gray-500 text-center pt-11 md:gap-8 block">©<a href="https://learnophi.com/">Learnophi</a> 2025, All rights reserved.</span>
   </div>
 </footer>
   );

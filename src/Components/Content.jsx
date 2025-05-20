@@ -90,7 +90,7 @@ const Content = () => {
         </div>
       </div>
   
-    <section className="py-24 relative">
+    <section className="py-24 relative" id="about">
       <div className="w-full max-w-7xl px-4 md:px-5 lg:px-5 mx-auto">
         <div className="w-full justify-start items-center gap-12 grid lg:grid-cols-2 grid-cols-1">
           {/* Left images */}
@@ -393,7 +393,7 @@ const Content = () => {
         </div>
       </div>
     </section>
-    <section className="">
+    <section id="course">
       <div className="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 sm:py-16 lg:px-6">
         
         <img
@@ -436,7 +436,7 @@ const Content = () => {
       </div>
     </section>
    
-    <section className="py-16">
+    <section className="py-16" id="contact">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="lg:py-14 lg:px-20 p-10 rounded-2xl bg-gradient-to-r from-indigo-600 to-violet-600 flex items-center justify-between flex-col lg:flex-row">
           <div className="block text-center mb-5 lg:text-left lg:mb-0">

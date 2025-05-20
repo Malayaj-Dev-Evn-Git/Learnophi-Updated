@@ -133,7 +133,7 @@ const CourseDetailsPage = () => {
                 a non-tech professional, or an IT professional stuck in support or testing, this course is designed to 
                 help you pivot into cloud data roles with confidence — and land your dream package.<br></br>Master Azure Data Factory, 
                 SQL, Python, Data Lakes, ETL pipelines, and more with hands-on projects and mentorship. 
-                The program is led by Sanjeev Paul, a Senior Manager at Cognizant with 17+ years of experience in Wipro, 
+                The program is led by He Paul, a Senior Manager at Cognizant with 17+ years of experience in Wipro, 
                 Infosys, and Tech Mahindra. His guidance will help you build not just skills — but career confidence.
                 </p>
                 <h3 className="mt-4 font-semibold">💼 What Makes This Course Powerful?</h3>
@@ -227,7 +227,7 @@ const CourseDetailsPage = () => {
                   />
 
                   <div className="flex-1">
-                    <h2 className="text-2xl font-bold text-gray-900">Sanjeev Kumar Paul</h2>
+                    <h2 className="text-2xl font-bold text-gray-900"></h2>
                     <p className="text-pink-500 font-medium mb-4">Enterprise Data Architect & Career Transformation Mentor</p>
 
                     <div className="grid grid-cols-2 gap-x-6 gap-y-3 mb-4">
@@ -261,15 +261,15 @@ const CourseDetailsPage = () => {
 
                 <p className="text-gray-600 mt-6 text-sm leading-relaxed">
                 With a strong technical foundation and proven leadership across geographies, 
-                Sanjeev is passionate about leveraging cloud and data technologies to solve complex business challenges.
-                With 17+ years of real-world IT experience, Sanjeev Paul isn’t just another trainer—he’s a seasoned expert who 
+                He is passionate about leveraging cloud and data technologies to solve complex business challenges.
+                With 17+ years of real-world IT experience, He Paul isn’t just another trainer—he’s a seasoned expert who 
                 has lived and breathed enterprise data engineering across the globe! Having worked with industry giants 
                 like Infosys, Wipro, Tech Mahindra, and currently a Senior Manager at Cognizant, 
-                Sanjeev brings a powerhouse of knowledge, insights, and industry secrets straight to your screen.<br></br>
-                Sanjeev doesn’t just teach—he transforms mindsets. His classes blend deep technical knowledge with 
+                He brings a powerhouse of knowledge, insights, and industry secrets straight to your screen.<br></br>
+                He doesn’t just teach—he transforms mindsets. His classes blend deep technical knowledge with 
                 real-world use cases, live project exposure, and industry best practices that can launch or accelerate 
                 your career in Azure Data Engineering.<br></br>If you're a fresher, career switcher, or working professional 
-                looking to break into one of the most in-demand tech careers—Sanjeev is the mentor you’ve been waiting for.
+                looking to break into one of the most in-demand tech careers—He is the mentor you’ve been waiting for.
                 </p>
               </div>
             )}
@@ -337,7 +337,6 @@ const CourseDetailsPage = () => {
           </button>
 
           <ul className="text-gray-700 text-sm mt-4 space-y-2">
-            <li><strong>Instructor:</strong> Sanjeev Paul</li>
             <li><strong>Lectures:</strong> 80</li>
             <li><strong>Duration:</strong> 95Hr 30Minutes</li>
             <li><strong>Level:</strong> Bignner - Intermediate</li>

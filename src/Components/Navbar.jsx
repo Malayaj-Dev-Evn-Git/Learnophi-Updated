@@ -36,7 +36,7 @@ const Navbar = () => {
         <img
           src={logo}
           alt="Logo"
-          target="/"
+          target="https://learnophi.com"
           className="h-12 drop-shadow-md cursor-pointer"
           onClick={() => scrollToSection("home")}
         />
@@ -44,7 +44,7 @@ const Navbar = () => {
         {/* Desktop Menu */}
         <ul className="hidden md:flex space-x-6 font-medium text-gray-700">
           <li className="cursor-pointer hover:text-teal-600" onClick={() => scrollToSection("about")}>About</li>
-          <li className="cursor-pointer hover:text-teal-600" onClick={() => scrollToSection("company")}>Courses</li>
+          <li className="cursor-pointer hover:text-teal-600" onClick={() => scrollToSection("course")}>Courses</li>
           <li className="cursor-pointer hover:text-teal-600" onClick={() => scrollToSection("resources")}>Resources</li>
           <li className="cursor-pointer hover:text-teal-600" onClick={() => scrollToSection("contact")}>Contact</li>
         </ul>
