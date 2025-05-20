@@ -133,7 +133,7 @@ const CourseDetailsPage = () => {
                 a non-tech professional, or an IT professional stuck in support or testing, this course is designed to 
                 help you pivot into cloud data roles with confidence — and land your dream package.<br></br>Master Azure Data Factory, 
                 SQL, Python, Data Lakes, ETL pipelines, and more with hands-on projects and mentorship. 
-                The program is led by He Paul, a Senior Manager at Cognizant with 17+ years of experience in Wipro, 
+                The program is led by Him, a Senior Architect at Confidential with 17+ years of experience in Wipro, 
                 Infosys, and Tech Mahindra. His guidance will help you build not just skills — but career confidence.
                 </p>
                 <h3 className="mt-4 font-semibold">💼 What Makes This Course Powerful?</h3>
@@ -262,7 +262,7 @@ const CourseDetailsPage = () => {
                 <p className="text-gray-600 mt-6 text-sm leading-relaxed">
                 With a strong technical foundation and proven leadership across geographies, 
                 He is passionate about leveraging cloud and data technologies to solve complex business challenges.
-                With 17+ years of real-world IT experience, He Paul isn’t just another trainer—he’s a seasoned expert who 
+                With 17+ years of real-world IT experience, He isn’t just another trainer—he’s a seasoned expert who 
                 has lived and breathed enterprise data engineering across the globe! Having worked with industry giants 
                 like Infosys, Wipro, Tech Mahindra, and currently a Senior Manager at Cognizant, 
                 He brings a powerhouse of knowledge, insights, and industry secrets straight to your screen.<br></br>
