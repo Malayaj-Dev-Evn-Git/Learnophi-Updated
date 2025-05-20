@@ -332,10 +332,15 @@ const CourseDetailsPage = () => {
             className="rounded-lg mb-4"
           />
           <h2 className="text-2xl font-bold mb-2">Free</h2>
-          <button className="w-full bg-indigo-600 hover:bg-indigo-600 text-white font-semibold py-2 rounded-lg">
-            Enroll Now
-          </button>
-
+          <a
+            href="https://forms.gle/4ewDGj843KqF6DMA8"
+            target="_blank"
+            rel="noopener noreferrer"
+            >
+              <button className="w-full bg-indigo-600 hover:bg-indigo-700 text-white font-semibold py-2 rounded-lg">
+                Enroll Now
+              </button>
+            </a>
           <ul className="text-gray-700 text-sm mt-4 space-y-2">
             <li><strong>Lectures:</strong> 80</li>
             <li><strong>Duration:</strong> 95Hr 30Minutes</li>

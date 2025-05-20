@@ -3,6 +3,10 @@ import Clogo from "../Assets/image/clogo.png";
 import Dlogo from "../Assets/image/dlogo.png";
 import Ilogo from "../Assets/image/ilogo.png";
 import Conlogo from "../Assets/image/conlogo.png";
+import Teach from "../Assets/image/teach.jpg";
+import Stand from "../Assets/image/stand.jpg";
+import DataCap from "../Assets/image/data.jpg";
+import Course from "../Assets/image/course1.jpg";
 
 const Content = () => {
   return (
@@ -81,10 +85,10 @@ const Content = () => {
             <img src={ Ilogo } width="90px" alt="company4"></img>
             </a>
             <a href="https://datamatics.com" className="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
-            <img src={ Dlogo } width="90px" alt="company4"></img>
+            <img src={ Dlogo } width="110px" alt="company4"></img>
             </a>
             <a href="https://concentrix.com" className="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
-            <img src={ Conlogo } width="90px" alt="company4"></img>
+            <img src={ Conlogo } width="110px" alt="company4"></img>
             </a>
           </div>
         </div>
@@ -98,13 +102,13 @@ const Content = () => {
             <div className="pt-24 lg:justify-center sm:justify-end justify-start items-start gap-2.5 flex">
               <img
                 className="rounded-xl object-cover"
-                src="https://pagedone.io/asset/uploads/1717741205.png"
+                src={Teach}
                 alt="About Us"
               />
             </div>
             <img
               className="sm:ml-0 ml-auto rounded-xl object-cover"
-              src="https://pagedone.io/asset/uploads/1717741215.png"
+              src={Stand}
               alt="About Us"
             />
           </div>
@@ -315,7 +319,7 @@ const Content = () => {
               </div>
               <div className="relative hidden h-auto md:w-1/2 md:block">
                 <img
-                  src="https://pagedone.io/asset/uploads/1695028873.png"
+                  src={DataCap}
                   alt="Header Section"
                   className="h-full ml-auto object-cover"
                 />
@@ -398,7 +402,7 @@ const Content = () => {
         
         <img
           className="w-full hidden dark:block"
-          src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/cta/cta-dashboard-mockup.svg"
+          src={Course}
           alt="dashboard"
         />
         <div className="mt-4 md:mt-0">
