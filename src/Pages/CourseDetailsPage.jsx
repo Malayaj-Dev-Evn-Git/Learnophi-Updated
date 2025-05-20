@@ -227,7 +227,7 @@ const CourseDetailsPage = () => {
                   />
 
                   <div className="flex-1">
-                    <h2 className="text-2xl font-bold text-gray-900"></h2>
+                   
                     <p className="text-pink-500 font-medium mb-4">Enterprise Data Architect & Career Transformation Mentor</p>
 
                     <div className="grid grid-cols-2 gap-x-6 gap-y-3 mb-4">
