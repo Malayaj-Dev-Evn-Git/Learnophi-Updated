@@ -249,13 +249,13 @@ const CourseDetailsPage = () => {
                       </div>
                     </div>
 
-                    <div className="flex gap-4 text-xl text-blue-600">
+                    {/* <div className="flex gap-4 text-xl text-blue-600">
                       <a href="#"><i className="fab fa-facebook-f"></i></a>
                       <a href="#"><i className="fab fa-linkedin-in"></i></a>
                       <a href="#"><i className="fab fa-instagram"></i></a>
                       <a href="#"><i className="fab fa-youtube text-red-500"></i></a>
                       <a href="#"><i className="fab fa -twitter text-sky-500"></i></a>
-                    </div>
+                    </div> */}
                   </div>
                 </div>
 
