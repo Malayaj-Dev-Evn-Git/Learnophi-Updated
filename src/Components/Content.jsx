@@ -26,7 +26,7 @@ const Content = () => {
     </a>
       <div className="py-8 px-4 mt-20 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
         <a
-          href="#"
+          href="/course-details"
           className="inline-flex justify-between items-center py-1 px-1 pr-4 mb-7 text-sm text-gray-700 border-gray-500 rounded-full border hover:bg-gray-200 "
           role="alert"
         >
@@ -74,16 +74,16 @@ const Content = () => {
           <span className="font-semibold text-gray-400 uppercase">FEATURED IN</span>
           <div className="flex flex-wrap justify-center items-center mt-8 text-gray-500 sm:justify-between">
             {/* Repeat or map logo SVGs here as needed */}
-            <a href="#" className="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+            <a href="https://techmahindra.com" className="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
               <img src={ Clogo } width="90px"></img>
             </a>
-            <a href="#" className="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+            <a href="https://infosys.com" className="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
             <img src={ Ilogo } width="90px"></img>
             </a>
-            <a href="#" className="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+            <a href="https://datamatics.com" className="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
             <img src={ Dlogo } width="90px"></img>
             </a>
-            <a href="#" className="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+            <a href="https://concentrix.com" className="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
             <img src={ Conlogo } width="90px"></img>
             </a>
           </div>
@@ -264,13 +264,13 @@ const Content = () => {
           </p>
           <div className="flex flex-col justify-center md:flex-row gap-5 max-w-lg mx-auto md:max-w-2xl lg:max-w-full">
             <a
-              href="#"
+              href="/course-details"
               className="cursor-pointer bg-indigo-600 py-3 px-6 rounded-full flex items-center justify-center text-sm font-semibold text-white transition-all duration-500 focus:outline-none hover:bg-indigo-700"
             >
               Get started
             </a>
             <a
-              href="#"
+              href="/course-details"
               className="cursor-pointer bg-indigo-50 py-3 px-6 rounded-full flex items-center justify-center text-sm font-semibold text-indigo-600 transition-all duration-500 focus:outline-none hover:bg-indigo-100"
             >
               Learn more
@@ -415,7 +415,7 @@ const Content = () => {
           this course helps you switch to tech, upskill smartly, and land your dream role with a rewarding package.
           </p>
           <a
-            href="#"
+            href="/course-details"
             className="inline-flex items-center text-indigo-600 bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:focus:ring-primary-900"
           >
             Get started

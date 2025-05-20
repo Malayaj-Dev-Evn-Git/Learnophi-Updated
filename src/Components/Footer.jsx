@@ -34,7 +34,7 @@ const Footer = () => {
       </li>
     </ul>
 
-    <ul className="mt-12 flex justify-center gap-6 md:gap-8">
+    {/* <ul className="mt-12 flex justify-center gap-6 md:gap-8">
       <li>
         <a
           href="#"
@@ -122,7 +122,7 @@ const Footer = () => {
           </svg>
         </a>
       </li>
-    </ul>
+    </ul> */}
     <span class="text-lg text-gray-500 text-center block">©<a href="https://learnophi.com/">Learnophi</a> 2025, All rights reserved.</span>
   </div>
 </footer>
