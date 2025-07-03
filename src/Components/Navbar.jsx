@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { AiOutlineClose, AiOutlineMenu } from "react-icons/ai";
-import logo from "../Assets/image/learnophi-large.png";
+import logo from "../Assets/image/learnophi-logo-adobe.png";
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -37,7 +37,7 @@ const Navbar = () => {
           src={logo}
           alt="Logo"
           target="https://learnophi.com"
-          className="h-12 drop-shadow-md cursor-pointer"
+          className="h-20 drop-shadow-md cursor-pointer"
           onClick={() => scrollToSection("home")}
         />
 

@@ -1,12 +1,12 @@
 import React from 'react';
-import logo from "../Assets/image/learnophi-large.png";
+import logo from "../Assets/image/learnophi-logo-adobe.png";
 
 const Footer = () => {
   return (
     <footer>
   <div className="mx-auto max-w-5xl px-4 py-16 sm:px-6 lg:px-8">
     <div className="flex justify-center text-teal-600">
-    <img src={logo} alt="Logo" target="https://learnophi.com" className="h-12 drop-shadow-md"></img>
+    <img src={logo} alt="Logo" target="https://learnophi.com" className="h-20 drop-shadow-md"></img>
     </div>
 
     <p className="mx-auto mt-6 max-w-md text-center leading-relaxed text-gray-500">
